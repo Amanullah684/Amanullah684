@@ -4,9 +4,9 @@
 #### I am online freelancer
 
 
-I am a online freelancer. Now I am working just like a personal assistance. But still continue my learning in web design and development 
+I operate as a freelancer online, providing personal support at the moment, but I'm still learning web design and programming.
 
-Skills: HTML / CSS
+Skills: HTML / CSS / Bootstrap / Javascript
 
 - 🔭 I’m currently working on Facebook and youtube  
 - 🌱 I’m currently learning javascript  
